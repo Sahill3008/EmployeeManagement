@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8"%>
+<%-- <%@ page contentType="text/html;charset=UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,8 +22,9 @@
 			<a href="employee?action=list" class="btn btn-primary">Manage
 				Employees</a>
 		</div>
-
+HEllo
 	</div>
 
 </body>
 </html>
+ --%>
